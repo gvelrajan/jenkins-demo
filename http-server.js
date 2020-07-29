@@ -1,5 +1,5 @@
 var http = require('http');
-var port = 8080
+var port = 6000
 var handleRequest = function(request, response) {
   console.log('Received HTTP request for URL: ' + request.url);
   response.writeHead(200);
