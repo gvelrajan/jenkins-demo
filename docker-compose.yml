@@ -1,6 +1,6 @@
 version: '3'
 services:
   web:
-    image: "gvelrajan/http-server:v18.0
+    image: "gvelrajan/http-server:v19.0
     ports:
       - "6000:6000"
